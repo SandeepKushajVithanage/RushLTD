@@ -1,5 +1,5 @@
 # RushLTD
-Car Showroom Management System
+Car Showroom Management System in Python with Tkinter
 
 1. Just run the main.py.
 2. Select what interface should open.
