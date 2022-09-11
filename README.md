@@ -1,0 +1,6 @@
+# RushLTD
+Car Showroom Management System
+
+1. Just run the main.py.
+2. Select what interface should open.
+3. Data in all the tables can be selected by double clicking any rows tables.
